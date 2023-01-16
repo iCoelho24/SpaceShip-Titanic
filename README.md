@@ -2,6 +2,7 @@
 # Spaceship Titanic
 
 <img src='spaceship.png'>
+
 #### Introdução
 
 Bem-vindo ao ano 2912, onde suas habilidades em ciência de dados são necessárias para resolver um mistério cósmico. Recebemos uma transmissão a quatro anos-luz de distância e as coisas não estão boas.
